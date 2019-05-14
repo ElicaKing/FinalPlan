@@ -1,0 +1,4 @@
+D:\ECA_Liuls\EcaPaymentServer\EcaPaymentServer\bin\Debug\EcaPaymentServer.dll
+D:\ECA_Liuls\EcaPaymentServer\EcaPaymentServer\bin\Debug\EcaPaymentServer.pdb
+D:\ECA_Liuls\EcaPaymentServer\EcaPaymentServer\obj\Debug\EcaPaymentServer.dll
+D:\ECA_Liuls\EcaPaymentServer\EcaPaymentServer\obj\Debug\EcaPaymentServer.pdb
