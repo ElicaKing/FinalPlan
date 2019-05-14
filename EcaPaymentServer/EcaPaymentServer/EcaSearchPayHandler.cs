@@ -37,7 +37,7 @@ namespace EcaPaymentServer
             dics.Add("YWCODE", YWCODE);
             try
             {
-                string url = "http://114.215.249.12:8080/nontax/services/remottingService";
+                string url = "http://114.215.294.12:8080/nontax/services/remottingService";
                 string[] param = new string[1];
                 param[0] = getXml(dics);
                 Log.CaptureError("", param[0]);
